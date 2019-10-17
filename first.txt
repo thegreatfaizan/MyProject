@@ -1,3 +1,2 @@
 Eagle
-Note
-Book
+Note Book
