@@ -1,1 +1,1 @@
-QRCODE Scanner
+Scanner QRCODE 
